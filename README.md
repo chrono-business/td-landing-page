@@ -13,3 +13,5 @@ npx serve .
 ## Deploy
 
 Projeto Vercel próprio (separado do ERP), conectado a este repositório.
+
+<!-- teste de integracao git->vercel (chrono-business) -->
