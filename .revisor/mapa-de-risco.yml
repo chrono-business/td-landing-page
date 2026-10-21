@@ -1,0 +1,25 @@
+td-landing-page:
+  bloqueante:
+    - ".revisor/**"
+    - "**/CODEOWNERS"
+    - ".github/workflows/**"
+  alto:
+    - ".github/**"
+    - "**/CODEOWNERS"
+    - "package.json"
+    - "package-lock.json"
+    - "pnpm-lock.yaml"
+    - "yarn.lock"
+    - "vercel.json"
+    - "next.config.*"
+  baixo:
+    - "**/*"
+    - "docs/**"
+    - "**/*.md"
+    - "**/*.css"
+    - "**/*.html"
+    - "**/*.png"
+    - "**/*.jpg"
+    - "**/*.svg"
+    - "**/*.webp"
+    - "public/**"
